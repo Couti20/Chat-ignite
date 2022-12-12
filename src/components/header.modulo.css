@@ -1,0 +1,13 @@
+.header {
+
+    background: rgb(48, 46, 43);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    
+}
+.header img {
+
+    height: 1.75rem;
+
+}
